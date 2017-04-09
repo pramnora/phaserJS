@@ -5,10 +5,10 @@ Phaser, is a 'fast, free, and, fun Javascript framework library used for buildin
 
 In order to work with Phaser you need to have...  
 
-> Basic knowledge of HTML/CSS/Javascript
-> Code editor
-> Web browser
-> Web server
+- Basic knowledge of HTML/CSS/Javascript
+- Code editor
+- Web browser
+- Web server
 
 # Links
 
