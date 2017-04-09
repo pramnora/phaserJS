@@ -1,5 +1,5 @@
 # phaserJS
-Phaser, is a Javascript framework library used for buidling games.
+Phaser, is a 'fast, free, and, fun Javascript framework library used for building browser games using WebGL/Canvas'.
 
 # Links
 
