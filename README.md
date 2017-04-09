@@ -14,7 +14,7 @@ In order to work with Phaser you need to have...
 
 # Links
 
-Phaser main site/info./-etc.    
+Phaser main site/downloads/further info./tutorials/-etc.    
 http://www.phaser.io  
 
 # Video tutorials
