@@ -1,6 +1,8 @@
 # phaserJS
 Phaser, is a 'fast, free, and, fun Javascript framework library used for building browser games using WebGL/Canvas'.
 
+Enables you to build your own cross 2D platform games which supports both keyboard/and, touch screen.  
+
 # Set up
 
 In order to work with Phaser you need to have...  
